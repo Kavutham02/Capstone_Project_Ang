@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "firstName": "John",
+      "lastName": "Doe",
+      "location": "New York",
+      "mobileNumber": "1234567890"
+    },
+    {
+      "id": 2,
+      "email": "jane.smith@example.com",
+      "password": "password456",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "location": "Los Angeles",
+      "mobileNumber": "0987654321"
+    },
+    {
+      "email": "kavutham02@gmail.com",
+      "password": "12345678",
+      "firstName": "KAVUTHAM",
+      "lastName": "K",
+      "location": "Madurai",
+      "mobileNumber": "8489697869",
+      "id": 3
+    },
+    {
+      "email": "kube@gmail.com",
+      "password": "12345678",
+      "firstName": "Rohit",
+      "lastName": "M",
+      "location": "Chennai",
+      "mobileNumber": "9856432171",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 101,
+      "name": "Mobile Phone",
+      "description": " 5G smartphones",
+      "manufacturer": "Mobile Corp",
+      "price": 18999,
+      "quantity": 10
+    },
+    {
+      "id": 102,
+      "name": "Laptop",
+      "description": "A High-level gaming laptop",
+      "manufacturer": "Asus Rog",
+      "price": 69999,
+      "quantity": 8
+    },
+    {
+      "id": 103,
+      "name": "Smart Watch",
+      "description": "Good Quality Smart Watch",
+      "manufacturer": "Boat",
+      "price": 3999,
+      "quantity": 20
+    },
+    {
+      "name": "Speakers",
+      "description": "High Bass Speakers",
+      "manufacturer": "Boat",
+      "price": 7999,
+      "quantity": 12,
+      "id": 104
+    },
+    {
+      "name": "Airpods",
+      "description": "high Bass ",
+      "manufacturer": "boat",
+      "price": 2999,
+      "quantity": 10,
+      "id": 1742123892829
+    }
+  ]
+}
